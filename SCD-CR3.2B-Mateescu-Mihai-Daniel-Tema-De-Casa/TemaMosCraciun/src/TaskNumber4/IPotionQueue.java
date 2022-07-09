@@ -1,0 +1,6 @@
+package TaskNumber4;
+
+public interface IPotionQueue {
+	void push(Potion value);
+	Potion pop();
+}
